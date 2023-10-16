@@ -20,4 +20,4 @@ ChatGPT kết hợp tương lai của trợ lý AI với công nghệ mang tính
 >⭐ [Ví Dụ](https://onedrive.live.com/embed?resid=750758803F9E18F7%21186&authkey=!AJi4xhuznxeWp10)
 
 ## Tác giả của dự án
-https://github.com/danny-avila/LibreChat
+> https://github.com/danny-avila/LibreChat
