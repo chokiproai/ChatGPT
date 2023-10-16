@@ -17,13 +17,7 @@ ChatGPT kết hợp tương lai của trợ lý AI với công nghệ mang tính
 
 ## Video
 
->⭐[Ví Dụ](https://onedrive.live.com/embed?resid=750758803F9E18F7%21186&authkey=!AJi4xhuznxeWp10)
+>⭐ [Ví Dụ](https://onedrive.live.com/embed?resid=750758803F9E18F7%21186&authkey=!AJi4xhuznxeWp10)
 
-## Tất cả
-
-- [x] Soạn
-- [x] Tái cấu trúc Vue3
-- [x] từ gợi ý
-- [x] Lịch sử trò chuyện
-- [x] Xuất tin nhắn sang cục bộ (Markdown, hình ảnh, PDF)
-- [x] Kiểm soát truy cập đơn giản
+## Tác giả của dự án
+https://github.com/danny-avila/LibreChat
