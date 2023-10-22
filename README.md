@@ -13,6 +13,6 @@ ChatGPT kết hợp tương lai của trợ lý AI với công nghệ mang tính
 - ⭐ Tìm kiếm tất cả tin nhắn/cuộc trò chuyện - Thông tin thêm tại đây
 - ⭐ Hiện đã có sẵn các plugin (bao gồm truy cập web, tạo hình ảnh và hơn thế nữa)
 ## Video
->⭐ [Ví Dụ](https://onedrive.live.com/embed?resid=750758803F9E18F7%21190&authkey=!AGBprp5wZ1Aa8uA)
+>⭐ [Ví Dụ](https://onedrive.live.com/embed?resid=750758803F9E18F7%21191&authkey=!AGBprp5wZ1Aa8uA)
 ## Tác giả của dự án
 > https://github.com/danny-avila/LibreChat
