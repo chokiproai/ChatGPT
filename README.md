@@ -1,5 +1,7 @@
-# ChatGPT
-- [Triển khai trên Hugging Face](https://huggingface.co/login?next=%2Fspaces%2Fngoctuanai%2Fchatgpt%3Fduplicate%3Dtrue)
+<h1 align="center">ChatGPT</h1>
+
+## [Triển khai trên Hugging Face](https://huggingface.co/login?next=%2Fspaces%2Fngoctuanai%2Fchatgpt%3Fduplicate%3Dtrue)
+
 ## Giới Thiệu
 - Cuộc trò chuyện AI tất cả trong một với ChatGPT
 ChatGPT kết hợp tương lai của trợ lý AI với công nghệ mang tính cách mạng ChatGPT của OpenAI. Tôn vinh kiểu dáng ban đầu, LibreChat mang đến cho bạn khả năng tích hợp nhiều mô hình AI. Nó cũng tích hợp và nâng cao các tính năng gốc của máy khách như tìm kiếm tin nhắn và hội thoại, các mẫu lời nhắc và plugin.
